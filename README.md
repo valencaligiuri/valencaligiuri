@@ -6,7 +6,7 @@
 
 I am a new computer engineering student.
 - 🌱 I’m currently learning ...
-  - Javascript
+  - Golang
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="valencaligiuri06@gmail.com">valencaligiuri06@gmail.com</a>
@@ -17,7 +17,8 @@ I am a new computer engineering student.
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 
